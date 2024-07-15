@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a 17-year-old aspiring computer scientist, cur
 - 🎓 **Education:** Learning Computer Science and Engineering (CSE)
 - 🧑‍💼 **Languages:**
   - **Learned:** C, C++, Python, Java
-  - **Learning:** JavaScript
+  - **Learning:** JavaScript, AI, ML, Deep Learning, NLP
 - 🛠️ **Projects:**
   - **JARVIS:** A virtual assistant inspired by Marvel's AI
   - **Friday:** Another Marvel AI clone with unique features
@@ -22,13 +22,15 @@ Welcome to my GitHub profile! I'm a 17-year-old aspiring computer scientist, cur
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sri-ram-charan-5533272b0/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/sri_ram___charan)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/19957884/black-hawk?tab=profile)
-
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/Black_Hawk616/)
 ## 🌟 My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlackHawk616&show_icons=true&theme=radical)
