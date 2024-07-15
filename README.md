@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Black Hawk aka Sri Ram Charan!
+# 👋 Hello, I'm Black Hawk!
 
 
 Welcome to my GitHub profile! I'm a 17-year-old aspiring computer scientist, currently learning and exploring the vast world of technology.
