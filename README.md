@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a 17-year-old aspiring computer scientist, cur
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/sri_ram___charan)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/19957884/black-hawk?tab=profile)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/Black_Hawk616/)
-[![Monkeytype](https://img.shields.io/badge/-Monkeytype-FF4500?logo=monkeytype&logoColor=white&style=for-the-badge)](https://monkeytype.com/profile/haran0616)
+[![Monkeytype](https://img.shields.io/badge/-Monkeytype-FF4500?logo=monkeytype&logoColor=white&style=for-the-badge)](https://monkeytype.com/profile/Charan0616)
 ## 🌟 My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlackHawk616&show_icons=true&theme=radical)
