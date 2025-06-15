@@ -38,7 +38,9 @@ Welcome to my GitHub profile! I'm a 17-year-old aspiring computer scientist, cur
 
 ## 🔥 My Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHawk616&layout=compact&theme=radical)
+## 🔥 My Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHawk616&layout=compact&theme=tokyonight)
 
 
 Thank you for visiting my profile! Feel free to reach out and connect. Let's build and innovate together! 🚀
