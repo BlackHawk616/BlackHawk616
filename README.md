@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Sri Ram Charan!
 
 
-Welcome to my GitHub profile! I'm a 17-year-old aspiring computer scientist, currently learning and exploring the vast world of technology.
+Welcome to my GitHub profile! I'm a 18-year-old aspiring computer scientist, currently learning and exploring the vast world of technology.
 
 ## 👨‍💻 About Me
 
