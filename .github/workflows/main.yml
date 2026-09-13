@@ -13,3 +13,5 @@ jobs:
 
       - name: Metrics embed
         uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
