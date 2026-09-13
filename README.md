@@ -110,13 +110,21 @@ Welcome to my GitHub profile! I'm a 18-year-old aspiring computer scientist, cur
 [![Monkeytype](https://img.shields.io/badge/-Monkeytype-FF4500?logo=monkeytype&logoColor=white&style=for-the-badge)](https://monkeytype.com/profile/Charan0616)
 ## 🌟 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlackHawk616&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlackHawk616&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+</p>
 
 ## 🔥 My Top Languages
 
-## 🔥 My Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHawk616&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHawk616&layout=compact&theme=tokyonight)
+## 📊 Additional Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BlackHawk616/BlackHawk616/main/github-metrics.svg" alt="GitHub Metrics" width="800" />
+</p>
 
 
 Thank you for visiting my profile! Feel free to reach out and connect. Let's build and innovate together! 🚀
